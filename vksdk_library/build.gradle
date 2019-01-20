@@ -1,0 +1,23 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 28
+    }
+    productFlavors {
+    }
+}
+
+configurations {
+    // Used for correct javadoc generation
+    javadocDeps
+}
+
+dependencies {
+    javadocDeps 'com.android.support:support-annotations:25.1.0'
+    implementation 'com.android.support:appcompat-v7:28.0.0-alpha1'
+}
+
+//apply from: '../maven_push.gradle'

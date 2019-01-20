@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Демо ВК-клиент</string>
+    <string name="blue_theme">Установить голубую тему</string>
+    <string name="red_theme">Установить красную тему</string>
+    <string name="demo_text">Добро пожаловать в Демо-ВК клиент</string>
+    <string name="getAuth">Авторизоваться ВК</string>
+    <string name="getFriendsList">Получить список друзей</string>
+    <integer name="com_vk_sdk_AppId">6758101</integer>
+</resources>

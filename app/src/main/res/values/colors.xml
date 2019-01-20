@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#26c6da</color>
+    <color name="colorPrimaryDark">#00acc1</color>
+    <color name="colorAccent">#90caf9</color>
+    <color name="RedForSnackBar">#d50000</color>
+    <color name="AbsolutelyWhite">#ffffff</color>
+    <color name="DarkVerColorPrimary">#d81b60</color>
+    <color name="DarkverColorPrimarydark">#ad1457</color>
+    <color name="DarkVerColorAccent">#f06292</color>
+    <color name="BlueForSnackBar">@color/colorPrimary</color>
+</resources>
